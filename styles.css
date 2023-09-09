@@ -1,0 +1,16 @@
+.title{
+    color:saddlebrown;
+    background-color:bisque;
+    }     
+body{
+    text-align:center;
+    }    
+.recipes{
+    font-size:35px;
+    border:5px solid saddlebrown;
+    padding: 10px;
+    border-radius: 1rem;
+    background-color: bisque;      
+    width: 600px;
+    margin: 0 auto;
+ }   
